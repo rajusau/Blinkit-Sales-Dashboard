@@ -1,0 +1,89 @@
+id,rating,feedback_text,feedback_category,sentiment,order_status
+1,1,Delivery was unacceptably slow and disappointing.,Slow Delivery,Negative,Completed
+2,4,Eco-friendly packaging was sturdy and appreciated.,Packaging Issue,Positive,Completed
+3,1,"System rejected my net banking, so the order canceled.",Payment Issue,Negative,Cancelled
+4,1,Card kept failing so the order was automatically canceled.,Payment Issue,Negative,Cancelled
+5,4,A discount made this purchase worthwhile and affordable.,Price Concern,Positive,Completed
+6,2,I had to wait longer than reasonable for my items.,Slow Delivery,Negative,Completed
+7,2,A voucher code didn’t work in the app; I had to pay full price.,Payment Trouble,Negative,Completed
+8,1,Realized I already have this at home and canceled it.,Customer Cancellation,Negative,Cancelled
+9,5,Sale pricing saved me money—I'll definitely reorder.,Price Concern,Positive,Completed
+10,1,The support agent was rude and offered no solution.,Customer Service,Negative,Completed
+11,1,"Digital payment kept failing, forcing me to use cash on delivery.",Payment Trouble,Negative,Completed
+12,4,Product was crisp and very satisfying to use.,Product Quality,Positive,Completed
+13,1,I waited on chat for too long and gave up—no response.,Customer Service,Negative,Completed
+14,1,Changed my mind after seeing another option—canceled.,Changed Mind,Negative,Cancelled
+15,1,"Costs jumped mid-checkout, so I canceled due to high price.",Price Issue,Negative,Cancelled
+16,1,Price seemed too high for what I needed—canceled.,Price Issue,Negative,Cancelled
+17,1,App wouldn't accept my payment method—canceled.,Payment Issue,Negative,Cancelled
+18,1,An item leaked because packaging wasn't sealed properly.,Packaging Issue,Negative,Completed
+19,1,"Added wrong item by mistake, so I canceled the order.",Customer Cancellation,Negative,Cancelled
+20,2,Driver arrived much later than I anticipated.,Slow Delivery,Negative,Completed
+21,4,The delivery arrived well before I expected; very pleased.,Fast Delivery,Positive,Completed
+22,5,Finding items is quick and intuitive on this app.,App Experience,Positive,Completed
+23,4,Received my order very swiftly; excellent job.,Fast Delivery,Positive,Completed
+24,1,Cart total increased at checkout—price change led to cancel.,Price Issue,Negative,Cancelled
+25,1,Saved payment details but transaction failed—order canceled.,Payment Issue,Negative,Cancelled
+26,1,"Forgot I'd already bought this, so I canceled my order.",Customer Cancellation,Negative,Cancelled
+27,1,It took far too long for my order to arrive.,Slow Delivery,Negative,Completed
+28,4,New design is clear and makes browsing effortless.,App Experience,Positive,Completed
+29,1,Surge pricing kicked in during checkout—order canceled.,Price Issue,Negative,Cancelled
+30,2,Excessive wrapping felt wasteful for smaller items.,Packaging Issue,Negative,Completed
+31,5,The app flows smoothly and is easy to navigate.,App Experience,Positive,Completed
+32,1,Noticed lower prices locally—canceled my order.,Found Cheaper Alternative,Negative,Cancelled
+33,1,"Opted for a different solution, so I canceled.",Changed Mind,Negative,Cancelled
+34,1,Slow service made the experience frustrating.,Slow Delivery,Negative,Completed
+35,1,Found a cheaper platform and canceled my order here.,Found Cheaper Alternative,Negative,Cancelled
+36,1,I was charged twice and it took days to resolve the issue.,Payment Trouble,Negative,Completed
+37,2,That bakery item tasted stale and lacked freshness.,Product Quality,Negative,Completed
+38,1,"Wasn't up for a delivery today, so I canceled.",Changed Mind,Negative,Cancelled
+39,1,My card was declined repeatedly—very frustrating.,Payment Trouble,Negative,Completed
+40,5,Impressed by how fast my order got to me.,Fast Delivery,Positive,Completed
+41,1,Changed my mind and canceled the order at the last moment.,Customer Cancellation,Negative,Cancelled
+42,3,More bundle deals would help reduce overall costs.,Price Concern,Neutral,Completed
+43,1,No one answered my call when I needed urgent assistance.,Customer Service,Negative,Completed
+44,1,Fragile items arrived broken; packaging should improve.,Packaging Issue,Negative,Completed
+45,1,"Requested a particular item, then saw it was unavailable—canceled.",Product Unavailable,Negative,Cancelled
+46,3,"Prices change frequently, making budgeting difficult.",Price Concern,Neutral,Completed
+47,1,Fees increased unexpectedly—canceled because it wasn’t worth it.,Price Issue,Negative,Cancelled
+48,1,Got a bundle offer from another service—canceled this one.,Found Cheaper Alternative,Negative,Cancelled
+49,1,The app crashed when I tried to place an order—very annoying.,App Experience,Negative,Completed
+50,5,Everything was wrapped securely; no damage on arrival.,Packaging Issue,Positive,Completed
+51,1,Item disappeared from cart just before payment—canceled.,Product Unavailable,Negative,Cancelled
+52,5,Items reached me so promptly—couldn't be happier.,Fast Delivery,Positive,Completed
+53,2,Switching payment methods was a hassle before it finally processed.,Payment Trouble,Negative,Completed
+54,1,Delivery fee spiked just before payment—canceled due to cost.,Price Issue,Negative,Cancelled
+55,1,Decided I didn't need this purchase and canceled beforehand.,Customer Cancellation,Negative,Cancelled
+56,1,"Accidentally placed two orders, so I canceled one.",Customer Cancellation,Negative,Cancelled
+57,1,Digital payment ID wasn't recognized—order canceled.,Payment Issue,Negative,Cancelled
+58,1,Added a product but it vanished at checkout—canceled.,Product Unavailable,Negative,Cancelled
+59,2,The dairy product was near its expiration date—quite disappointing.,Product Quality,Negative,Completed
+60,2,Delivery fee felt steep compared to the order value.,Price Concern,Negative,Completed
+61,3,I always check prices here before deciding to buy.,Price Concern,Neutral,Completed
+62,1,Some items arrived in poor condition and appeared spoiled.,Product Quality,Negative,Completed
+63,1,A package tore open and contents spilled out during transit.,Packaging Issue,Negative,Completed
+64,5,I called and got immediate help—very impressed with support.,Customer Service,Positive,Completed
+65,1,"App showed availability earlier, but lost stock at checkout—canceled.",Product Unavailable,Negative,Cancelled
+66,1,Thought of another way and canceled the order.,Changed Mind,Negative,Cancelled
+67,1,Free delivery offered somewhere else—canceled this order.,Found Cheaper Alternative,Negative,Cancelled
+68,1,"After update, the app froze whenever I tapped 'Checkout.'",App Experience,Negative,Completed
+69,5,Delivery service was top-notch and lightning-fast.,Fast Delivery,Positive,Completed
+70,1,A perishable item emitted an off smell upon opening—quality issue.,Product Quality,Negative,Completed
+71,5,Delivery was extremely quick and everything arrived fresh.,Fast Delivery,Positive,Completed
+72,1,Tried adding to cart but item was marked out of stock—canceled.,Product Unavailable,Negative,Cancelled
+73,1,Promo popped up on a different platform—canceled here.,Found Cheaper Alternative,Negative,Cancelled
+74,4,Chat agent was polite and resolved my issue quickly.,Customer Service,Positive,Completed
+75,1,My coupon failed to apply at checkout due to a bug.,App Experience,Negative,Completed
+76,1,Saw a better deal elsewhere and canceled here.,Found Cheaper Alternative,Negative,Cancelled
+77,1,Attempted to order an item but it was out of stock—canceled.,Product Unavailable,Negative,Cancelled
+78,1,A system glitch prevented my payment and I had to cancel the order.,Payment Trouble,Negative,Completed
+79,5,The product felt of great quality and exceeded my expectations.,Product Quality,Positive,Completed
+80,1,Decided I didn't want this anymore—order canceled.,Changed Mind,Negative,Cancelled
+81,1,Punctuality was a big issue; delivery dragged on.,Slow Delivery,Negative,Completed
+82,1,Payment didn't go through after several attempts—canceled.,Payment Issue,Negative,Cancelled
+83,5,Support was fast and followed through promptly.,Customer Service,Positive,Completed
+84,1,Realized I didn't need this item—canceled before it shipped.,Changed Mind,Negative,Cancelled
+85,3,Was expecting it a bit earlier; timely delivery would improve the experience.,Delivery Concern,Neutral,Completed
+86,3,Arrived later than expected — not too late, but not ideal either.,Delivery Concern,Neutral,Completed
+87,3,Delivery was somewhat late; please try to stick to the schedule.,Delivery Concern,Neutral,Completed
+88,3,Arrived later than expected — not too late; but not ideal either.,Delivery Concern,Neutral,Completed
